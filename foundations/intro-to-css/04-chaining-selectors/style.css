@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.avatar.female{
+    width: 300px;
+    height: auto;
+}
+
+.avatar.male{
+    width: 200px;
+    height: 400px;
+}

@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+div#thirdele{
+    color: blue;
+    font-size: 36px;
+
+}
+
+div#fourthele{
+    background-color: lime;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+
+p.cool-class{
+    font-size: 24px;
+}
+
